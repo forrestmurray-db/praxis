@@ -1,0 +1,7 @@
+{
+  "host": "https://e2-demo-field-eng.cloud.databricks.com/",
+  "authType": "profile",
+  "profile": "DEFAULT",
+  "clusterId": "0329-145545-rugby794",
+  "workspacePath": "/Users/forrest.murray@databricks.com/.ide/praxis-e69400ad"
+}
